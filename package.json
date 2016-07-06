@@ -12,6 +12,7 @@
   "directories": {
     "lib": "./lib"
   },
+  "typings": "./index.d.ts",
   "main": "index",
   "engines": {
     "node": "*"
